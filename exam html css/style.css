@@ -1,0 +1,68 @@
+.navbar1{
+    position:sticky;
+}
+
+button{
+    background-color: green;
+    color: white;
+}
+.banner{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/6291604274bc7d0c02445423/2bfc701c-a23a-4ee1-8cd5-ae9c1aa9e12d/Homepage-edit-First-Image.jpg?format=original);
+}
+.img{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.p1{
+    width: 400px;
+  
+    margin-left: 50%;
+}
+.h2{
+    margin-left: 50%;
+    margin-top: -367px;
+    margin-top: -360px;
+}
+.p2{
+    width: 400px;
+}
+.p3{
+    width: 400px;
+    margin-left: 50%;
+}
+.h3{
+    margin-left: 50%;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    
+    margin-top: 30px;
+    align-items: center;
+    margin-top: 7%;
+}
+.latest{
+    text-align: center;
+    margin-top:16% ;
+}
+.col1{
+    width: 300px;
+    height: 300px;
+}
+.col2{
+    width: 300px;
+    height: 300px;
+}
+.col3{
+    width: 300px;
+    height: 300px;
+}
+.banner-text{
+    margin-left: 10%;
+    color: green;
+    font-family: sans-serif;
+
+}
